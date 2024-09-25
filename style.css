@@ -1,0 +1,17 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 4rem;
+}
+
+button img{
+    width:80px;
+    height: 80px;
+}
+button {
+    border: 1px solid #800e0e; 
+    background-color: transparent;
+   
+  }
